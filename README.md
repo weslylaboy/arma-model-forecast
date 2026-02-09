@@ -5,8 +5,8 @@ how well it performs by analyzing the errors. It’s also a good idea to experim
 $p$ and $q$, since ACF and PACF plots are only rough guides. Running a small grid search often helps find better parameter values.
 
 
-For this exercise, I worked with the [Production and sale of cement bags](https://indicadores.pr/dataset/f1b1d002-5958-431a-abfe-539ce3814018/resource/806d9de9-c2ee-4506-b6fc-ed2990a54561/download/datos_cemento.csv
-, which contains monthly data on the production and sales of 94 lb sacks of cement in Puerto Rico.
+For this exercise, I worked with the [Production and sale of cement bags](https://indicadores.pr/dataset/f1b1d002-5958-431a-abfe-539ce3814018/resource/806d9de9-c2ee-4506-b6fc-ed2990a54561/download/datos_cemento.csv),
+which contains monthly data on the production and sales of 94 lb sacks of cement in Puerto Rico.
 
 ------
 
